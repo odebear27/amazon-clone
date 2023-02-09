@@ -1,32 +1,31 @@
 # Welcome to my Amazon Clone Online Store
-Click on `Sign In` to sign in to your created account or if you have not yet created an account, key in your E-mail and Password then click `Create your Amazon Account`. Thereafer, you can click `Sign In`.
+Click on `Sign In` to sign in to your created account or if you have not yet created an account, key in your E-mail and Password then click `Create your Amazon Account`. Thereafer, you can click `Sign In`.  
 ![image](https://user-images.githubusercontent.com/101394672/217729518-b9dafd1f-cf8e-4dfb-a630-e1e88d593b76.png)
 
-Click on `Add to Cart` to add the items to the cart. The cart on the right side of the header will show the number of items added to the cart.
+Click on `Add to Cart` to add the items to the cart. The cart on the right side of the header will show the number of items added to the cart.  
 ![image](https://user-images.githubusercontent.com/101394672/217730091-25f4101a-0823-44fd-a7b8-ea0b9f170b5c.png)
 
-Click on the cart on the right side of the header to see the items in your shopping cart. If you change your mind about purchasing the item, you can remove the item from cart by clicking on the `Remove from Cart` button.
-
+Click on the cart on the right side of the header to see the items in your shopping cart. If you change your mind about purchasing the item, you can remove the item from cart by clicking on the `Remove from Cart` button.  
 ![image](https://user-images.githubusercontent.com/101394672/217735288-85aa44b2-dcb2-464b-9d3e-ea72c4386edc.png)
 
-Click on the `Proceed to Checkout` button to checkout. You will be navigated to Checkout page where you can review items and key in your payment method. Key in 
+Click on the `Proceed to Checkout` button to checkout. You will be navigated to Checkout page where you can review items and key in your payment method. Key in  
 Card number: 4242 4242 4242 4242  
 MM / YY: 04 / 24  
 CVC: 242  
 ZIP: 42424  
 
-Click `Buy Now`.
+Click `Buy Now`.  
 ![image](https://user-images.githubusercontent.com/101394672/217731324-d0d43e37-52e8-4dc5-8a10-6cc5b5589479.png)
 
-Your orders will be shown if payment is successful.
+Your orders will be shown if payment is successful.  
 ![image](https://user-images.githubusercontent.com/101394672/217731488-3254509a-4799-443b-9249-f15bd21051e1.png)
 
 Click on `Sign Out` in the header to sign out. You can still see your orders if you sign in again and click on `Returns & Orders` in the header.
 
-The owner will be able to track the payment received in stripe.
+The owner will be able to track the payment received in stripe.  
 ![image](https://user-images.githubusercontent.com/101394672/217732049-cd40540c-a7d1-4c2e-bf6d-26f01be1e8a9.png)
 
-The owner will be able to see the item details in Cloud Firestore.
+The owner will be able to see the item details in Cloud Firestore.  
 <video src='https://user-images.githubusercontent.com/101394672/217732849-4ead1aa4-a535-4a52-8a34-f93b66e58677.mp4' width=180/>
 
 # Getting Started with Create React App
