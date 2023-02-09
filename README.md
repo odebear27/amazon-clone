@@ -1,4 +1,7 @@
 # Welcome to my Amazon Clone Online Store
+
+![image](https://user-images.githubusercontent.com/101394672/217736493-06c91ab8-d1f4-41ec-b74d-e25eef954780.png)
+
 Click on `Sign In` to sign in to your created account or if you have not yet created an account, key in your E-mail and Password then click `Create your Amazon Account`. Thereafer, you can click `Sign In`.  
 ![image](https://user-images.githubusercontent.com/101394672/217729518-b9dafd1f-cf8e-4dfb-a630-e1e88d593b76.png)
 
