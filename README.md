@@ -1,5 +1,5 @@
 # Welcome to my Amazon Clone Online Store
-<video src='https://user-images.githubusercontent.com/101394672/217738384-eaf2c89b-abeb-45e0-a1a1-b842f5cc7af3.mp4' width=180/>
+<video src='https://user-images.githubusercontent.com/101394672/217738384-eaf2c89b-abeb-45e0-a1a1-b842f5cc7af3.mp4' width=180></video>
 
 ![image](https://user-images.githubusercontent.com/101394672/217736493-06c91ab8-d1f4-41ec-b74d-e25eef954780.png)
 
@@ -36,7 +36,7 @@ The owner will be able to track the payment received in stripe.
 ![image](https://user-images.githubusercontent.com/101394672/217732049-cd40540c-a7d1-4c2e-bf6d-26f01be1e8a9.png)
 
 The owner will be able to see the item details in Cloud Firestore.
-<video src='https://user-images.githubusercontent.com/101394672/217732849-4ead1aa4-a535-4a52-8a34-f93b66e58677.mp4' width=180/>
+<video src='https://user-images.githubusercontent.com/101394672/217732849-4ead1aa4-a535-4a52-8a34-f93b66e58677.mp4' width=180></video>
 
 # Getting Started with Create React App
 
