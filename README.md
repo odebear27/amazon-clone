@@ -27,7 +27,7 @@ The owner will be able to track the payment received in stripe.
 ![image](https://user-images.githubusercontent.com/101394672/217732049-cd40540c-a7d1-4c2e-bf6d-26f01be1e8a9.png)
 
 The owner will be able to see the item details in Cloud Firestore.
-[![video](https://user-images.githubusercontent.com/101394672/217732849-4ead1aa4-a535-4a52-8a34-f93b66e58677.mp4)]
+<video src='https://user-images.githubusercontent.com/101394672/217732849-4ead1aa4-a535-4a52-8a34-f93b66e58677.mp4' width=180/>
 
 # Getting Started with Create React App
 
