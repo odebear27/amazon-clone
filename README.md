@@ -6,7 +6,12 @@ Click on `Add to Cart` to add the items to the cart. The cart on the right side 
 ![image](https://user-images.githubusercontent.com/101394672/217730091-25f4101a-0823-44fd-a7b8-ea0b9f170b5c.png)
 
 Click on the cart on the right side of the header to see the items in your shopping cart. If you change your mind about purchasing the item, you can remove the item from cart by clicking on the `Remove from Cart` button.
-![image](https://user-images.githubusercontent.com/101394672/217730230-00952997-d743-4e6a-84b8-26fa4750a3bd.png)
+
+[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)]
+
+
+https://user-images.githubusercontent.com/101394672/217734622-485e5be8-1697-4dd7-95c3-4d9df2a9d613.mp4
+
 
 Click on the `Proceed to Checkout` button to checkout. You will be navigated to Checkout page where you can review items and key in your payment method. Key in 
 Card number: 4242 4242 4242 4242 
