@@ -7,11 +7,7 @@ Click on `Add to Cart` to add the items to the cart. The cart on the right side 
 
 Click on the cart on the right side of the header to see the items in your shopping cart. If you change your mind about purchasing the item, you can remove the item from cart by clicking on the `Remove from Cart` button.
 
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)]
-
-
-https://user-images.githubusercontent.com/101394672/217734622-485e5be8-1697-4dd7-95c3-4d9df2a9d613.mp4
-
+![image](https://user-images.githubusercontent.com/101394672/217735288-85aa44b2-dcb2-464b-9d3e-ea72c4386edc.png)
 
 Click on the `Proceed to Checkout` button to checkout. You will be navigated to Checkout page where you can review items and key in your payment method. Key in 
 Card number: 4242 4242 4242 4242 
@@ -31,7 +27,7 @@ The owner will be able to track the payment received in stripe.
 ![image](https://user-images.githubusercontent.com/101394672/217732049-cd40540c-a7d1-4c2e-bf6d-26f01be1e8a9.png)
 
 The owner will be able to see the item details in Cloud Firestore.
-[![image](https://user-images.githubusercontent.com/101394672/217732849-4ead1aa4-a535-4a52-8a34-f93b66e58677.mp4)]
+[![video](https://user-images.githubusercontent.com/101394672/217732849-4ead1aa4-a535-4a52-8a34-f93b66e58677.mp4)]
 
 # Getting Started with Create React App
 
