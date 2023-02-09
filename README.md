@@ -10,10 +10,10 @@ Click on the cart on the right side of the header to see the items in your shopp
 ![image](https://user-images.githubusercontent.com/101394672/217735288-85aa44b2-dcb2-464b-9d3e-ea72c4386edc.png)
 
 Click on the `Proceed to Checkout` button to checkout. You will be navigated to Checkout page where you can review items and key in your payment method. Key in 
-Card number: 4242 4242 4242 4242 
-MM / YY: 04 / 24
-CVC: 242
-ZIP: 42424
+Card number: 4242 4242 4242 4242  
+MM / YY: 04 / 24  
+CVC: 242  
+ZIP: 42424  
 
 Click `Buy Now`.
 ![image](https://user-images.githubusercontent.com/101394672/217731324-d0d43e37-52e8-4dc5-8a10-6cc5b5589479.png)
